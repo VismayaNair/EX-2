@@ -44,10 +44,10 @@ SERVER OUTPUT :
 output
 ```
 # CLIENT OUTPUT :
-![output](CO.png)
+![CO](https://github.com/VismayaNair/EX-2/assets/93427210/0fe3e2ae-1bfa-4d1b-84f0-bcedb139fd08)
 
 # SERVER OUTPUT :
-![output](SO.png)
+![SO](https://github.com/VismayaNair/EX-2/assets/93427210/b779e4f0-34af-46bc-93f9-70b5f9c3e532)
 
 # RESULT :
 Thus, python program to perform stop and wait protocol was successfully executed.
